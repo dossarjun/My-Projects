@@ -2,4 +2,4 @@
 
 This repository will contain all my projects.
 
-Hangman Game - [GitHub Pages](https://dossarjun.github.io/hangman/)
+[Hangman Game](https://dossarjun.github.io/hangman/)
